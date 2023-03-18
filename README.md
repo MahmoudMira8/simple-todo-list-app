@@ -15,3 +15,4 @@ To add a task, type the task into the text input and click the "Add" button. The
 ## Local Storage
 This application uses the browser's local storage to store the list of tasks. This means that the list will be saved even if you close the browser or navigate away from the page. To clear the list, simply delete the "todos" key from local storage using your browser's developer tools.
 
+[Live Todo List](https://simpletodolist8.netlify.app/)
